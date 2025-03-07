@@ -1,4 +1,4 @@
-# php Hotel
+# The PHP Grand Hotel Website
 
 ## Overview
 This is a simple hotel room booking system built with PHP, Bootstrap, and JSON data storage. Users can search for available rooms, view room details, and book or cancel reservations.
