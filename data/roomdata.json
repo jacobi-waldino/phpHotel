@@ -1,0 +1,146 @@
+[
+    {
+        "num": 101,
+        "type": "single",
+        "booked": 0,
+        "name": "",
+        "checkin": "",
+        "checkout": "",
+        "totalPrice": 0
+    },
+    {
+        "num": 102,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 103,
+        "type": "double",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 104,
+        "type": "suite",
+        "booked": 0,
+        "name": "",
+        "checkin": "",
+        "checkout": "",
+        "totalPrice": 0
+    },
+    {
+        "num": 201,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 202,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 203,
+        "type": "double",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 204,
+        "type": "suite",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 301,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 302,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 303,
+        "type": "double",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 304,
+        "type": "suite",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 401,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 402,
+        "type": "single",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 403,
+        "type": "double",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    },
+    {
+        "num": 404,
+        "type": "suite",
+        "booked": 0,
+        "name": 0,
+        "checkin": 0,
+        "checkout": 0,
+        "totalPrice": 0
+    }
+]
